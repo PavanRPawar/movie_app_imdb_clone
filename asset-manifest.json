@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/movie_app_imdb_clone/static/css/main.e45fb457.css",
+    "main.js": "/movie_app_imdb_clone/static/js/main.8e4af89c.js",
+    "index.html": "/movie_app_imdb_clone/index.html",
+    "main.e45fb457.css.map": "/movie_app_imdb_clone/static/css/main.e45fb457.css.map",
+    "main.8e4af89c.js.map": "/movie_app_imdb_clone/static/js/main.8e4af89c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e45fb457.css",
+    "static/js/main.8e4af89c.js"
+  ]
+}
